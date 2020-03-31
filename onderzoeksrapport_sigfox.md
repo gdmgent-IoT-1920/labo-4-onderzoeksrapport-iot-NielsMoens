@@ -7,7 +7,7 @@
 
 # Onderzoeksrapport Sigfox
 
-![alt_text](https://www.flashnet.ro/wp-content/uploads/2017/03/technology_sigfox-.png)
+![alt_text](https://www.wndgroup.io/wp-content/uploads/2017/07/Sigfox-logo-tagline-RVB.jpg)
 
 
 ## Inleiding
