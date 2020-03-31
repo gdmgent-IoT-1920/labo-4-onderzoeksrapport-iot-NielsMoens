@@ -57,7 +57,7 @@ Door dat Sigfox internationaal zijn eigen Sigfox netwerk gebruikt is er geen SIM
 
 ## Hoe werkt Sigfox
 
-![alt_text](https://i.ytimg.com/vi/wkyzEnYpxSA/maxresdefault.jpg) (SIGFOX, 2016) 
+![alt_text](https://i.ytimg.com/vi/wkyzEnYpxSA/maxresdefault.jpg) 
 
 Sigfox biedt een bidirectioneel datatransport aan voor IoT applicaties. Bidirectioneel datatransport kan je vergelijken met een twee richting straat zodat er berichten ontvangen en verzonden worden door het aangesloten apparaat. 
 
@@ -66,7 +66,7 @@ De meeste apparaten die verbonden zijn op het Sigfox netwerk communiceren niet m
 Een belangrijke service die Sigfox ook aanbiedt is de Sigfox cloud. Dit is een interface tussen de klanten en alle Sigfox partners die geconnecteerd zijn zoals bijvoorbeeld Engie Electrabel die 99% van België dekt voor Iot netwerken. (Engie, z.d.)  
 Deze service wordt hoofdzakelijk gebruikt voor het versturen en ontvangen van datapakketjes (kleine berichten data) maar wordt ook gebruikt voor het servicekaart voorspellingen. Zo kan men bijhouden hoeveel gebied het netwerk bereik dekt.
 
-Netwerkoperators kunnen Sigfox cloud ook gebruiken als een tool voor het netwerkbeheer en contractbeheer zo kan de netwerkoperator de contract overeen komsten van zijn klanten overzichtelijk bijhouden. Dit noemt Sigfox het OSS-systeem[^7]. (SIGFOX, 2016) 
+Netwerkoperators kunnen Sigfox cloud ook gebruiken als een tool voor het netwerkbeheer en contractbeheer zo kan de netwerkoperator de contract overeen komsten van zijn klanten overzichtelijk bijhouden. Dit noemt Sigfox het OSS-systeem[^7].
 
 Even kort samengevat hoe de levenscyclus van een Sigfox datacommunicatie er uit ziet. 
 Op de website van Sigfox bouw wordt dit in een stappenplan omschreven: 
@@ -75,6 +75,8 @@ Op de website van Sigfox bouw wordt dit in een stappenplan omschreven:
 2. Sigfox lokale basisstations in het gebied ontvangen het datapakket.
 3. De basisstations sturen dit dan door naar de Sigfox cloud.
 4. De Sigfox cloud stuurt het bericht dan door haar het platform van de klant.
+
+ (SIGFOX, 2016) 
 
 ## Sigfox toepassingsvoorbeelden in ons land
 
@@ -86,13 +88,13 @@ Het Engie Internet of Things netwerk in België is gebaseerd op de Sigfox techno
 
 *   **Pilootproject van waterlink in Antwerpen** met intelligente watermeters die het waterverbruik vereenvoudigen, onderhoud houd van de installaties en waterlekken detecteren. 
 
-*   **TankU IoT **met slimme oliepeilmeters die gebruik maken van een Sigfox netwerkkaart om het niveau in de tank op te meten. 
+*   **TankU IoT** met slimme oliepeilmeters die gebruik maken van een Sigfox netwerkkaart om het niveau in de tank op te meten. 
 
-*   **Nexxtender Mobile **een mobiel oplaadsysteem voor elektrische wagens die gebruik maakt van het draadloze Sigfox netwerk om data uit te wisselen met een beheerplatform voor de gebruikers. 
+*   **Nexxtender Mobile** een mobiel oplaadsysteem voor elektrische wagens die gebruik maakt van het draadloze Sigfox netwerk om data uit te wisselen met een beheerplatform voor de gebruikers. 
 
-*   **Autonome rookdetectors **die gebruik maken van de Sigfox technologie. De rookdetector stuur een signaal door naar Sigfox en dit wordt dat in real time doorgestuurd naar de gebruiker. 
+*   **Autonome rookdetectors** die gebruik maken van de Sigfox technologie. De rookdetector stuur een signaal door naar Sigfox en dit wordt dat in real time doorgestuurd naar de gebruiker. 
 
-*   **Blue **een belgische product dat het water in zwembad water meet. De temperatuur , ph-waarden, zout en chloorwaarden worden doorgestuurd over het Sigfox netwerk. Via een applicatie op de smartphone de gebruiker deze in real time raadplegen.
+*   **Blue** een belgische product dat het water in zwembad water meet. De temperatuur , ph-waarden, zout en chloorwaarden worden doorgestuurd over het Sigfox netwerk. Via een applicatie op de smartphone de gebruiker deze in real time raadplegen.
   
   (Engie, 2016) 
 
